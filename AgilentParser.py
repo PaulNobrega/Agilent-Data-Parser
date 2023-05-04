@@ -4,7 +4,6 @@ import glob
 import numpy as np
 from parse import *
 import PyPDF2
-import re
 
 def read_agilent_d_file(d_folder):
     '''
